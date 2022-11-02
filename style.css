@@ -2,6 +2,9 @@ body {
   font-family: "Montserrat", sans-serif;
   background-color: #ffb5b5;
 }
+.col-6 {
+  margin-bottom: 4px;
+}
 .wrapper {
   display: flex;
   flex-direction: row-reverse;
